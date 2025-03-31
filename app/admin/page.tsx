@@ -1,6 +1,6 @@
 import { Suspense } from "react"
-import FlightDashboard from "@/components/flight-dashboard"
-import { Skeleton } from "@/components/ui/skeleton"
+import FlightDashboard from "@/components/v0-import/flight-dashboard"
+import { Skeleton } from "@/components/v0-import/ui/skeleton"
 
 export default function Home() {
   return (
